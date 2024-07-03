@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-cfp-ste-rita",
+  "version": "1.0.0",
+  "description": "bootstrap training",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jow-doe",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
